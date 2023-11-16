@@ -1,4 +1,3 @@
 ---
 issues:
-  - url: https://github.com/hexlet-codebattle/codebattle/issues/1265 #старый баг
-  - url: https://github.com/hexlet-codebattle/codebattle/issues/1656 #такой же баг, заново открытый, с моим комментарием
+  - url: https://github.com/hexlet-codebattle/codebattle/issues/1656#issuecomment-1810363887 #мой комментарий к новому багу со ссылкой на старый
